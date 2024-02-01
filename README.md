@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bpshop
 - 👀 I’m interested in Geodesy
-- 🌱 I’m currently learning how to compute star positions
+- 🌱 I’m currently trying to interface a CMOS sensor in C++
 
 <!---
 bpshop/bpshop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
